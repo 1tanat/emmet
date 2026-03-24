@@ -1,0 +1,23 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "test",
+  "homepage": "https://github.com/1tanat/emmet#readme",
+  "bugs": {
+    "url": "https://github.com/1tanat/emmet/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1tanat/emmet.git"
+  },
+  "license": "ISC",
+  "author": "1tanat",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
