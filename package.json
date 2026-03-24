@@ -12,12 +12,15 @@
   },
   "license": "ISC",
   "author": "1tanat",
-  "type": "module",
+  "type": "commonjs",
   "main": "index.ts",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "devDependencies": {
-    "jest": "^30.3.0"
+    "@types/jest": "^30.0.0",
+    "jest": "^30.3.0",
+    "ts-jest": "^29.4.6",
+    "typescript": "^6.0.2"
   }
 }
